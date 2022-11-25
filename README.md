@@ -49,5 +49,4 @@ Made with 💚 and 🙇🏻‍♂️ in Oldenburg, Germany.
 ![Helm](https://img.shields.io/badge/-Helm-black?style=flat-square&logo=Helm)
 ![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)
 
-<a rel="me" href="https://chaos.social/@jtk">Mastodon</a>
 ## Here's some stuff I've built...👇
