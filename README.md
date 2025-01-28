@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning `Domain Driven Design` and `Test Driven Development`
 - 👯 I’m looking to collaborate on `Open Source projects`
 - 🤔 I’m looking for help with the design at [PDF Archiver](https://pdf-archiver.io)
-- 📫 How to reach me: [Web](https://juliankahnert.de) | [Twitter](https://twitter.com/JulianKahnert) | [Mail](mailto:mail@juliankahnert.de)
+- 📫 How to reach me: [Web](https://juliankahnert.de) | [Mastodon]([https://twitter.com/JulianKahnert](https://chaos.social/@jtk)) | [Mail](mailto:mail@juliankahnert.de)
 
 ## :octocat: My projects:
 <details>
