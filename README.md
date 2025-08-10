@@ -1,7 +1,7 @@
 # Hi, I'm Julian! 👋
 
 - 🔭 I’m currently working on ... 🤫
-- 🌱 I’m currently learning `Domain Driven Design` and `Test Driven Development`
+- 🌱 I’m currently diving into `Domain Driven Design` and [`Swift Composable Architecture`](https://github.com/pointfreeco/swift-composable-architecture)
 - 👯 I’m looking to collaborate on `Open Source projects`
 - 🤔 I’m looking for help with the design at [PDF Archiver](https://pdf-archiver.io)
 - 📫 How to reach me: [Web](https://juliankahnert.de) | [Mastodon](https://chaos.social/@jtk) | [Mail](mailto:mail@juliankahnert.de)
